@@ -1,0 +1,10 @@
+@import "tailwindcss";
+
+html {
+  scroll-behavior: smooth;
+  font-family: 'Plus Jakarta Sans', system-ui, -apple-system, sans-serif;
+}
+
+.clip-path-brush {
+  clip-path: polygon(0% 0%, 100% 20%, 80% 50%, 100% 80%, 0% 100%);
+}

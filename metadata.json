@@ -1,0 +1,6 @@
+{
+  "name": "Paradise Boys Hostel Peshawar",
+  "description": "Premium, comfortable and safe boys hostel in Peshawar for students and working professionals. Features 1 to 4 seater rooms, 24/7 security, high-speed Wi-Fi, solar backup, and online room booking.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
